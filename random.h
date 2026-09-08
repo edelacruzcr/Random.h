@@ -1,15 +1,3 @@
-// ============================================================
-// random.h - BIBLIOTECA RANDOM PARA C
-// ============================================================
-// VERSIÓN: 1.0.0
-// LICENCIA: MIT (Libre para todos)
-// ============================================================
-// CÓMO USAR:
-//   1. Guarda este archivo como random.h
-//   2. #include <random.h>  (si está instalado en el sistema)
-//   3. #include "random.h"  (si está en tu proyecto)
-// ============================================================
-
 #ifndef RANDOM_H
 #define RANDOM_H
 
