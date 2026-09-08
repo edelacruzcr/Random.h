@@ -1,0 +1,28 @@
+# Compilación de C
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# Ejemplos compilados
+example1
+example2
+example3
+programa
+
+# Archivos de Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Temporales
+temp/
+tmp/
+*.tmp
